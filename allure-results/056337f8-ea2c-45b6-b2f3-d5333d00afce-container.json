@@ -1,0 +1,1 @@
+{"uuid":"056337f8-ea2c-45b6-b2f3-d5333d00afce","name":"testng.Testn.afterMethod","children":["8447c8a6-f123-4da8-86ad-9da3abbddc1b"],"description":"","befores":[],"afters":[{"name":"afterMethod","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1691124300328,"stop":1691124300329}],"start":1691124300328,"stop":1691124300329}
